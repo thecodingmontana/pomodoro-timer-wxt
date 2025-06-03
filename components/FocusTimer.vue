@@ -126,7 +126,7 @@ onUnmounted(() => {
           class="text-white text-xl cursor-pointer"
           @click="resetTimer"
         >
-          <Icon icon="heroicons:arrow-uturn-left-16-solid" class="w-6 h-6" />
+          <Icon icon="solar:refresh-outline" class="w-6 h-6" />
         </button>
         <button
           type="button"
